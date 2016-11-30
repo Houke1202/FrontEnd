@@ -1,0 +1,6 @@
+＃ React框架环境搭建教程
+1. node.js和npm安装教程：https://docs.npmjs.com/getting-started/what-is-npm
+   建议国内用cnpm，中国的镜像，速度会比较快
+   安装完成后，执行：$ node -v 命令，会有版本显示，
+2. $ npm install -g cnpm --registry=https://registry.npm.taobao.org
+3. 
